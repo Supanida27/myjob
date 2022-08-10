@@ -5,15 +5,21 @@ Aware Outsourcing Services Corporation (Thailand) Limited
 Responsibilities:
 หน้าที่รับผิดชอบ
 Design, develop and maintain a scalable web solution
+ออกแบบ พัฒนา และบำรุงรักษาโซลูชันเว็บที่ปรับขนาดได้
 Write and maintain functional and technical specifications
+เขียนและบำรุงรักษาคุณสมบัติการทำงานและคุณสมบัติทางเทคนิค
 Translating business needs into technical requirements that creatively solve complex problems
+แปลความต้องการทางธุรกิจเป็นข้อกำหนดทางเทคนิคที่สร้างสรรค์ในการแก้ปัญหาที่ซับซ้อน
 
 Requirements:
 คุณสมบัติที่ต้องการ
 Bachelor or Master Degree in Information Technology, Engineering, Computer Science or relevant fields
+ปริญญาตรีหรือปริญญาโทด้านเทคโนโลยีสารสนเทศ วิศวกรรมศาสตร์ วิทยาการคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง
 3+ years experiences in full stack development (Web & Mobile)
+ประสบการณ์ 3 ปีขึ้นไปในการพัฒนา full stack (เว็บ & มือถือ)
 Experience with NodeJS(KOA) or Golang(GIN), RESTful API 
+มีประสบการณ์กับ NodeJS(KOA) หรือ Golang(GIN), RESTful API
 Experience with React, React-hook, MobX or Redux
-
+มีประสบการณ์กับ React, React-hook, MobX หรือ Redux
 
 
