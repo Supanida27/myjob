@@ -7,7 +7,6 @@ Responsibilities:
 Design, develop and maintain a scalable web solution
 Write and maintain functional and technical specifications
 Translating business needs into technical requirements that creatively solve complex problems
-Implementing integrations to external systems and contributing to internal initiative
 
 Requirements:
 คุณสมบัติที่ต้องการ
