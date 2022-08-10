@@ -1,22 +1,22 @@
 Full Stack Developer (Nodejs+React)
 Aware Outsourcing Services Corporation (Thailand) Limited
-ตำแหน่งนักพัฒนา
+นักพัฒนา
 Responsibilities:
-
+หน้าที่รับผิดชอบ
 Design, develop and maintain a scalable web solution
 Write and maintain functional and technical specifications
 Translating business needs into technical requirements that creatively solve complex problems
-Implementing integrations to external systems and contributing to internal initiatives to improve speed, quality, and efficiency of the development processes
-Assisting with testing (unit, system, integration, performance) and solution documentation, as necessary
-Accurately estimating and managing timelines for assigned projects
-Provide technical consulting and support
+Implementing integrations to external systems and contributing to internal initiative
+
+
+
 
 Requirements:
-
+คุณสมบัติที่ต้องการ
 Bachelor or Master Degree in Information Technology, Engineering, Computer Science or relevant fields
 3+ years experiences in full stack development (Web & Mobile)
 Experience with NodeJS(KOA) or Golang(GIN), RESTful API 
 Experience with React, React-hook, MobX or Redux
-Experience or familiarity operating database such as MongoDB, Redis, PostgreSQL,        MySQL, Elasticsearch, Cassandra
-Development Experience with Agile Methodologies
-Able to communicate in English
+
+
+
